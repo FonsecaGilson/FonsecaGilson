@@ -3,6 +3,13 @@
 
 ### My name is Gilson Fonseca!
 
+[![Linkedin Badge](https://img.shields.io/badge/-gilsonfonseca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilsonfonseca/)](https://www.linkedin.com/in/gilsonfonseca/)
+
+[![Gmail Badge](https://img.shields.io/badge/-gf.gilsonfonseca@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gf.gilsonfonseca@gmail.com)](mailto:gf.gilsonfonseca@gmail.com)
+
+- 🔭 **I’m currently working on server side Java technologies.**
+- 🌱 **I’m currently learning natural language processing.**
+
 #### ⚡ GitHub Stats
 
 [![card](https://github-readme-stats.vercel.app/api?username=FonsecaGilson&theme=dracula&show_icons=true)](https://github.com/FonsecaGilson/)
@@ -89,8 +96,10 @@
 </tr>
 
 </table>
-
-### Repo 
  
 ### Contact 
+
+[![Linkedin Badge](https://img.shields.io/badge/-krushnatkhawale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krushnat-khavale/)](https://www.linkedin.com/in/krushnat-khavale/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1446358/wosimosi)](https://stackoverflow.com/users/1446358/wosimosi)
+[![Gmail Badge](https://img.shields.io/badge/-krushnatkhavale@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krushnatkhawale@gmail.com)](mailto:krushnatkhawale@gmail.com)
  
