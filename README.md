@@ -10,7 +10,7 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=FonsecaGilson&theme=dracula&show_icons=true)](https://github.com/FonsecaGilson/)
 
-[![FonsecaGilson](https://github-readme-stats.vercel.app/api/top-langs/?username=FonsecaGilson&hide=html&layout=compact&theme=dracula)](https://github.com/FonsecaGilson/)
+[![FonsecaGilson](https://github-readme-stats.vercel.app/api/top-langs/?username=FonsecaGilson&hide=html&theme=dracula)](https://github.com/FonsecaGilson/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FonsecaGilson&theme=dracula&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -97,7 +97,7 @@
  
 ### Contact 
 
-[![Linkedin Badge](https://img.shields.io/badge/-gilsonfonsecaaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilsonfonsecaaa/)](https://www.linkedin.com/in/gilsonfonseca/)
+[![Linkedin Badge](https://img.shields.io/badge/-gilsonfonsecaaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilsonfonsecaaa/)](https://www.linkedin.com/in/gilsonfonsecaaaaa/)
 
 [![Gmail Badge](https://img.shields.io/badge/-gf.gilsonfonseca@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gf.gilsonfonseca@gmail.com)](mailto:gf.gilsonfonseca@gmail.com)
  
