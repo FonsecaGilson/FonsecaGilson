@@ -97,7 +97,7 @@
  
 ### Contact 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gilson Fonseca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/FonsecaGilson/)](https://www.linkedin.com/in/FonsecaGilson/)
+[![Linkedin Badge](https://img.shields.io/badge/-GilsonFonseca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/FonsecaGilson/)](https://www.linkedin.com/in/FonsecaGilson/)
 
 [![Gmail Badge](https://img.shields.io/badge/-gf.gilsonfonseca@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gf.gilsonfonseca@gmail.com)](mailto:gf.gilsonfonseca@gmail.com)
  
