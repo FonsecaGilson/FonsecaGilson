@@ -3,8 +3,8 @@
 
 ### My name is Gilson Fonseca!
 
-- 🔭 **I’m currently working with .Net Core, Microsoft SQL Server and JavaScript**
-- 🌱 **I'm currently learning Data Science and Analytics**
+- 🔭 **Working with .Net Core, Microsoft SQL Server and JavaScript**
+- 🌱 **Learning Data Science and Analytics**
 
 #### ⚡ GitHub Stats
 
