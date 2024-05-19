@@ -8,11 +8,7 @@
 
 #### ⚡ GitHub Stats
 
-[![card](https://github-readme-stats.vercel.app/api?username=FonsecaGilson&theme=dracula&show_icons=true)](https://github.com/FonsecaGilson/)
-
 [![FonsecaGilson](https://github-readme-stats.vercel.app/api/top-langs/?username=FonsecaGilson&hide=html&theme=dracula)](https://github.com/FonsecaGilson/)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FonsecaGilson&theme=dracula&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Snake dark](https://github.com/FonsecaGilson/FonsecaGilson/blob/output/github-contribution-grid-snake-dark.svg)
 
